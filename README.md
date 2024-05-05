@@ -1,0 +1,1 @@
+# cosmosdb_trigger_aoai
